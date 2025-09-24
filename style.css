@@ -1,0 +1,27 @@
+*{
+    color: GREEN;
+    background-color:aqua;
+    text-align: center;
+}
+
+#name{
+    font-size: 50px;
+    font-weight: bold;
+
+}
+
+li{
+    color: blue;
+}
+
+.pink{
+    color:pink;
+}
+
+.yellow{
+    background: yellow;
+}
+
+button:hover{
+    color: red;
+}
